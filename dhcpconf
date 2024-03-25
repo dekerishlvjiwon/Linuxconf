@@ -9,7 +9,7 @@ Last login: Fri Mar 22 08:35:12 2024 from 10.88.88.14
 
 # option definitions common to all supported networks...
 option domain-name "zuxone1.com";
-option domain-name-servers 208.67.222.222,8.8.8.8,1.1.1.1;
+option domain-name-servers 208.67.222.222,8.8.8.8,1.1.1.1,10.88.88.240;
 
 default-lease-time 3600;
 max-lease-time 3600;
